@@ -1,0 +1,63 @@
+﻿@model ParapharmacieApp.Models.Produit
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Produit</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Nom" class="control-label"></label>
+                <input asp-for="Nom" class="form-control" />
+                <span asp-validation-for="Nom" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Reference" class="control-label"></label>
+                <input asp-for="Reference" class="form-control" />
+                <span asp-validation-for="Reference" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Categorie" class="control-label"></label>
+                <input asp-for="Categorie" class="form-control" />
+                <span asp-validation-for="Categorie" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PrixAchat" class="control-label"></label>
+                <input asp-for="PrixAchat" class="form-control" />
+                <span asp-validation-for="PrixAchat" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PrixVente" class="control-label"></label>
+                <input asp-for="PrixVente" class="form-control" />
+                <span asp-validation-for="PrixVente" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="QuantiteStock" class="control-label"></label>
+                <input asp-for="QuantiteStock" class="form-control" />
+                <span asp-validation-for="QuantiteStock" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DatePeremption" class="control-label"></label>
+                <input asp-for="DatePeremption" class="form-control" />
+                <span asp-validation-for="DatePeremption" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,191 @@
+is_global = true
+build_property.TargetFramework = net10.0
+build_property.TargetFramework = net10.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v10.0
+build_property.RootNamespace = ParapharmacieApp
+build_property.RootNamespace = ParapharmacieApp
+build_property.ProjectDir = C:\Users\AdminLachmachi\Desktop\ParapharmacieProject\ParapharmacieApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\AdminLachmachi\Desktop\ParapharmacieProject\ParapharmacieApp
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 10.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/Clients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/Clients/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/Clients/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/Clients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/Clients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/CommandeFournisseurs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWFuZGVGb3Vybmlzc2V1cnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/CommandeFournisseurs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWFuZGVGb3Vybmlzc2V1cnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/CommandeFournisseurs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWFuZGVGb3Vybmlzc2V1cnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/CommandeFournisseurs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWFuZGVGb3Vybmlzc2V1cnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/CommandeFournisseurs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWFuZGVGb3Vybmlzc2V1cnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/Fournisseurs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm91cm5pc3NldXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/Fournisseurs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm91cm5pc3NldXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/Fournisseurs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm91cm5pc3NldXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/Fournisseurs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm91cm5pc3NldXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/Fournisseurs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm91cm5pc3NldXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/LigneCommandes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlnbmVDb21tYW5kZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/LigneCommandes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlnbmVDb21tYW5kZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/LigneCommandes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlnbmVDb21tYW5kZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/LigneCommandes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlnbmVDb21tYW5kZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/LigneCommandes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlnbmVDb21tYW5kZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/LigneVentes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlnbmVWZW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/LigneVentes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlnbmVWZW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/LigneVentes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlnbmVWZW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/LigneVentes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlnbmVWZW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/LigneVentes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlnbmVWZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/Produits/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVpdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/Produits/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVpdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/Produits/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVpdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/Produits/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVpdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/Produits/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVpdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/Ventes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/Ventes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/Ventes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/Ventes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/Ventes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AdminLachmachi/Desktop/ParapharmacieProject/ParapharmacieApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ro8v2d597a
