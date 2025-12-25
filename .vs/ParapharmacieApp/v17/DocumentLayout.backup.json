@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\AdminLachmachi\\Desktop\\ParapharmacieProject\\ParapharmacieApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB9E775E-F6B6-4C14-BE61-521CD7973EC3}|ParapharmacieApp.csproj|c:\\users\\adminlachmachi\\desktop\\parapharmacieproject\\parapharmacieapp\\controllers\\ligneventescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB9E775E-F6B6-4C14-BE61-521CD7973EC3}|ParapharmacieApp.csproj|solutionrelative:controllers\\ligneventescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AdminLachmachi\\Desktop\\ParapharmacieProject\\ParapharmacieApp\\Migrations\\20251225123218_migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251225123218_migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB9E775E-F6B6-4C14-BE61-521CD7973EC3}|ParapharmacieApp.csproj|c:\\users\\adminlachmachi\\desktop\\parapharmacieproject\\parapharmacieapp\\controllers\\lignecommandescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB9E775E-F6B6-4C14-BE61-521CD7973EC3}|ParapharmacieApp.csproj|solutionrelative:controllers\\lignecommandescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB9E775E-F6B6-4C14-BE61-521CD7973EC3}|ParapharmacieApp.csproj|c:\\users\\adminlachmachi\\desktop\\parapharmacieproject\\parapharmacieapp\\controllers\\fournisseurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB9E775E-F6B6-4C14-BE61-521CD7973EC3}|ParapharmacieApp.csproj|solutionrelative:controllers\\fournisseurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB9E775E-F6B6-4C14-BE61-521CD7973EC3}|ParapharmacieApp.csproj|c:\\users\\adminlachmachi\\desktop\\parapharmacieproject\\parapharmacieapp\\controllers\\commandefournisseurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB9E775E-F6B6-4C14-BE61-521CD7973EC3}|ParapharmacieApp.csproj|solutionrelative:controllers\\commandefournisseurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB9E775E-F6B6-4C14-BE61-521CD7973EC3}|ParapharmacieApp.csproj|c:\\users\\adminlachmachi\\desktop\\parapharmacieproject\\parapharmacieapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9E775E-F6B6-4C14-BE61-521CD7973EC3}|ParapharmacieApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LigneVentesController.cs",
-              "DocumentMoniker": "C:\\Users\\AdminLachmachi\\Desktop\\ParapharmacieProject\\ParapharmacieApp\\Controllers\\LigneVentesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LigneVentesController.cs",
-              "ToolTip": "C:\\Users\\AdminLachmachi\\Desktop\\ParapharmacieProject\\ParapharmacieApp\\Controllers\\LigneVentesController.cs",
-              "RelativeToolTip": "Controllers\\LigneVentesController.cs",
+              "Title": "20251225123218_migration1.cs",
+              "DocumentMoniker": "C:\\Users\\AdminLachmachi\\Desktop\\ParapharmacieProject\\ParapharmacieApp\\Migrations\\20251225123218_migration1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251225123218_migration1.cs",
+              "ToolTip": "C:\\Users\\AdminLachmachi\\Desktop\\ParapharmacieProject\\ParapharmacieApp\\Migrations\\20251225123218_migration1.cs",
+              "RelativeToolTip": "Migrations\\20251225123218_migration1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T12:01:16.759Z",
+              "WhenOpened": "2025-12-25T12:32:18.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LigneCommandesController.cs",
-              "DocumentMoniker": "C:\\Users\\AdminLachmachi\\Desktop\\ParapharmacieProject\\ParapharmacieApp\\Controllers\\LigneCommandesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LigneCommandesController.cs",
-              "ToolTip": "C:\\Users\\AdminLachmachi\\Desktop\\ParapharmacieProject\\ParapharmacieApp\\Controllers\\LigneCommandesController.cs",
-              "RelativeToolTip": "Controllers\\LigneCommandesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AdminLachmachi\\Desktop\\ParapharmacieProject\\ParapharmacieApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\AdminLachmachi\\Desktop\\ParapharmacieProject\\ParapharmacieApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T12:00:28.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FournisseursController.cs",
-              "DocumentMoniker": "C:\\Users\\AdminLachmachi\\Desktop\\ParapharmacieProject\\ParapharmacieApp\\Controllers\\FournisseursController.cs",
-              "RelativeDocumentMoniker": "Controllers\\FournisseursController.cs",
-              "ToolTip": "C:\\Users\\AdminLachmachi\\Desktop\\ParapharmacieProject\\ParapharmacieApp\\Controllers\\FournisseursController.cs",
-              "RelativeToolTip": "Controllers\\FournisseursController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:59:44.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CommandeFournisseursController.cs",
-              "DocumentMoniker": "C:\\Users\\AdminLachmachi\\Desktop\\ParapharmacieProject\\ParapharmacieApp\\Controllers\\CommandeFournisseursController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CommandeFournisseursController.cs",
-              "ToolTip": "C:\\Users\\AdminLachmachi\\Desktop\\ParapharmacieProject\\ParapharmacieApp\\Controllers\\CommandeFournisseursController.cs",
-              "RelativeToolTip": "Controllers\\CommandeFournisseursController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:59:09.622Z",
+              "WhenOpened": "2025-12-25T12:26:58.838Z",
               "EditorCaption": ""
             }
           ]

@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParapharmacieApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4bbaecc49a427e2751fac50e043dffc29ba333a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParapharmacieApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParapharmacieApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

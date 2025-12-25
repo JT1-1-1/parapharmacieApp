@@ -1,13 +1,18 @@
 using Microsoft.EntityFrameworkCore;
 using ParapharmacieApp.Models;
+using Microsoft.AspNetCore.Identity;
+using ParapharmacieApp.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ParapharmacieDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("gestionParapharmacieContextConnection")));
+builder.Services.AddDbContext<ParapharmacieAppContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("gestionParapharmacieContextConnection")));
+builder.Services.AddRazorPages();
+builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<ParapharmacieAppContext>();
 var app = builder.Build();
-
+app.MapRazorPages();
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
